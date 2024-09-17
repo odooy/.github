@@ -17,4 +17,4 @@ Odooy is a certified, official partner authorized by Odoo to offer services rela
 
 6. **Data Migration**: If your company is switching from another ERP system or upgrading to a new version of Odoo, We ensure smooth and accurate data migration.
 
-By leveraging the expertise of an Odooy, businesses can maximize the potential of Odoo ERP while minimizing the risks associated with implementation and operation.
+By leveraging the expertise of Odooy, businesses can maximize the potential of Odoo ERP while minimizing the risks associated with implementation and operation.
